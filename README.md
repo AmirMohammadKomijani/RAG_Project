@@ -1,0 +1,3 @@
+Retrieval-Augmented Generation (RAG) is an advanced technique used in natural language processing (NLP) that combines the strengths of two key methods: retrieval-based models and generative models. It aims to improve the quality and accuracy of generated text, particularly in tasks like question-answering, summarization, or conversational AI.
+
+My current tasks involve gathering a corpus, building a retriever and generator for natural language processing, and working with various models deployed on Hugging Face. These efforts are part of a movie recommendation system, where I leverage advanced NLP models to enhance the recommendations by integrating retrieval and generation techniques..
